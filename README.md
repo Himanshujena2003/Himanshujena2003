@@ -10,7 +10,7 @@
 
 ## Glad to see you here! &nbsp;
 
-I am a full-stack developer and good listener. I love programming, reading, writing and listening.
+I am a Full-stack developer and good listener. I love programming, reading, writing and listening.
 
 As a developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
